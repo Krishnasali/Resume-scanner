@@ -1,4 +1,4 @@
-# [Your App Name] - Intelligent Resume Scanner
+# [RESUME SCANNER BY KRISHNA] - Intelligent Resume Scanner
 
 [![Project Status](https://img.shields.io/badge/Status-Development-yellow)](https://github.com/your-username/your-repo-name)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
